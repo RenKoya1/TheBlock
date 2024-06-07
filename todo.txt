@@ -1,0 +1,3 @@
+x (A) contract作成
+(A) webページ作る
+(A) nft作る //ipfs.../1.json
